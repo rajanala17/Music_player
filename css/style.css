@@ -42,11 +42,17 @@ h1 {
   row-gap: 60px;
   box-sizing: border-box;
 }
+.logo{
+    height: 40vh;
+    width: 20vw;
+}
 
-.wsa-logo-container {
+.spotify-logo-container {
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 60vh;
+  width: 40vw;
 }
 
 .songs-list-container {
